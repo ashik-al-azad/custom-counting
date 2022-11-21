@@ -1,0 +1,16 @@
+/*  counterUp  */
+div {
+    font-size: 50px;
+    font-weight: 900;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter {
+    border: 5px solid;
+    padding: 100px;
+    border-radius: 50px;
+}
